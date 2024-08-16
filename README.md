@@ -22,6 +22,8 @@ Soy tecnico programador de software y aqui tengo varios de mis proyectos.
 
 <b>My GitHub Stats</b>
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=condorcoders&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
+
 <a href="http://www.github.com/Josephr1318"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Josephr1318&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/Josephr1318" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josephr1318&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
